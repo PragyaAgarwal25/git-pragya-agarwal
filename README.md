@@ -1,2 +1,2 @@
 # git-pragya-agarwal
-my git practice
+my git practice with git command
